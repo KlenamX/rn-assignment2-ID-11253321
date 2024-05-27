@@ -17,4 +17,4 @@
 
 # A SCREENSHOT OF THE APPLICATION
 
-![alt text](screenshot.png)
+![screenshot of application](screenshot.png)
